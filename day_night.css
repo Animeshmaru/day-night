@@ -26,6 +26,9 @@
 #switch:checked ~ .outer .content{
     background: black;
 }
+input{
+    overflow:hidden;
+}
 .content .toggle{
     width: 49px;
     height: 26px;
