@@ -11,12 +11,13 @@
     justify-content: center;
     background: rgb(229, 226, 226);
 }
+#switch{
+    visibility: hidden;
+}
 #switch:checked ~ .outer {
     background: rgb(63, 63, 63);
 }
-#switch{
-    visibility:hidden;
-}
+
 .outer .content{
     background: whitesmoke;
     padding: 15px;  
