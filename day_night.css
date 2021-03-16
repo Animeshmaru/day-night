@@ -14,6 +14,9 @@
 #switch:checked ~ .outer {
     background: rgb(63, 63, 63);
 }
+input{
+    visibility:hidden;
+}
 .outer .content{
     background: whitesmoke;
     padding: 15px;  
