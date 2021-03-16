@@ -14,7 +14,7 @@
 #switch:checked ~ .outer {
     background: rgb(63, 63, 63);
 }
-input{
+#switch{
     visibility:hidden;
 }
 .outer .content{
